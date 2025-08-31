@@ -1,0 +1,39 @@
+Características do JavaScript
+
+O JavaScript é uma linguagem de programação dinâmica, amplamente utilizada no desenvolvimento web. Entre suas principais características, destacam-se:
+
+--->>> Interpretada
+
+O código é executado diretamente pelo navegador, sem necessidade de compilação prévia, o que facilita testes e mudanças rápidas.
+
+----- Baseada em eventos
+
+Permite que as páginas respondam a ações do usuário, como cliques, movimentos do mouse, digitação e envio de formulários.
+
+---- Multiparadigma
+
+Suporta programação orientada a objetos, funcional e imperativa, oferecendo flexibilidade na forma de escrever código.
+
+---- Linguagem de alto nível
+
+Possui sintaxe próxima da linguagem humana e abstrai detalhes complexos de memória e hardware, tornando o desenvolvimento mais ágil.
+
+---- Dinâmica e fraca tipagem
+
+Variáveis podem receber valores de diferentes tipos sem necessidade de declaração explícita, o que agiliza o desenvolvimento, mas exige cuidado para evitar erros.
+
+Portável e compatível
+
+Funciona em qualquer navegador moderno e em múltiplos sistemas operacionais, garantindo ampla distribuição das aplicações.
+
+Extensível
+
+Possui um enorme ecossistema de bibliotecas e frameworks (como React, Vue, Angular) que facilitam a construção de aplicações complexas.
+
+Interpretada no cliente e no servidor
+
+Além de rodar no navegador, também pode ser utilizada no back-end com o Node.js, permitindo que toda a aplicação web seja desenvolvida em uma única linguagem.
+
+Suporte a manipulação do DOM
+
+Permite alterar dinamicamente a estrutura, estilo e conteúdo das páginas HTML, tornando a experiência do usuário interativa e responsiva.
